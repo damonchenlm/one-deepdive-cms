@@ -1,0 +1,6 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/29 - 12:12:27.005	[34minfo[0m	/Users/univana/Documents/workstation/go_project/lab/one-deepdive-cms/server/initialize/router.go:31	use middleware logger
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/29 - 12:12:27.005	[34minfo[0m	/Users/univana/Documents/workstation/go_project/lab/one-deepdive-cms/server/initialize/router.go:34	use middleware cors
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/29 - 12:12:27.005	[34minfo[0m	/Users/univana/Documents/workstation/go_project/lab/one-deepdive-cms/server/initialize/router.go:36	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/29 - 12:12:27.005	[34minfo[0m	/Users/univana/Documents/workstation/go_project/lab/one-deepdive-cms/server/initialize/router.go:79	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/29 - 12:12:27.005	[34minfo[0m	/Users/univana/Documents/workstation/go_project/lab/one-deepdive-cms/server/core/server.go:37	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2021/10/29 - 12:12:49.054	[34minfo[0m	/Users/univana/Documents/workstation/go_project/lab/one-deepdive-cms/server/api/v1/system/sys_initdb.go:52	前往初始化数据库
